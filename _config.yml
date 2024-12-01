@@ -8,11 +8,11 @@ exclude: [vendor/ruby]
 
 # Personalization
 github_username: ashjang
-blog_url: https://ashjang.github.io
+blog_url: https://harimms.tistory.com
 email: vkdvkdgkfla@naver.com
 
 # absolute or relative
-profile_picture: assets/images/pp.jpg
+profile_picture: assets/images/me.jpg
 
 # Google Analytics ID
 google_analytics: 
