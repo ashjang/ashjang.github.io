@@ -24,7 +24,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/ashjang/FitTogether',
             title: 'FitTogether',
             demo: false,
-            technologies: ['Java', 'Spring Boot', 'MySQL', 'gradle', 'Junits', 'Swagger', 'Docker', 'Redis'],
+            technologies: ['Java', 'Spring Boot', 'MySQL', 'etc'],
             description: "가까운 위치의 운동 메이트를 찾아주고 유저들 간 정보를 공유할 수 있도록 하는 플랫폼",
             categories: ['web']
         },
