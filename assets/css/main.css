@@ -594,12 +594,12 @@ a {
 }
 
 .small-heading {
-    margin-bottom: 15px;
+    margin-bottom: 30px;
     font-family: 'PT Sans', Arial, Helvetica, sans-serif;
     font-size: 20px;
     font-weight: bold;
 }
 
 .project-item {
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
