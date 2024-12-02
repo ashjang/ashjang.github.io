@@ -69,7 +69,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/ashjang/DB_practice1',
             title: '학생DB',
             demo: false,
-            technologies: ['Python', 'MySQL'],
+            technologies: ['Python', 'MySQL', 'Django'],
             description: "학생 데이터를 관리할 수 있는 데이터베이스",
             categories: ['data']
         },
@@ -78,7 +78,7 @@ let render_projects = (slug) => {
             link: 'https://github.com/ashjang/DB_practice2',
             title: '카테고리DB',
             demo: false,
-            technologies: ['Python', 'MySQL'],
+            technologies: ['Python', 'MySQL', 'Django'],
             description: "여러 테이블을 관리할 수 있는 데이터베이스",
             categories: ['data']
         },
